@@ -1,0 +1,33 @@
+body{
+  background-color: gainsboro;
+}
+
+.Counter-box{
+    display: grid;
+    place-items: center;
+    margin-top: 20vh;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+
+.Counter-box1{
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 80vh;
+  height: 70vh;
+  text-align: center;
+  background-color: #ff4957;
+  border-style: none;
+  box-shadow: 0px 4px 8px 0px white;
+}
+
+.Counter-box1 button{
+  margin-top: 35vh;
+  padding: 15px 55px;
+  margin-left: 20px;
+}
+
